@@ -45,7 +45,7 @@ export default function Leaderboard() {
   return (
     <div className="flex flex-col items-center min-h-screen p-4 bg-[#1c1719]">
       <div className="py-20 flex flex-col items-center">
-      <img src="tool.png"></img>
+      <img src="/tool.png"></img>
       <div className="flex flex-row items-center">
         <input
           className="my-8 bg-red-200 pl-2"
